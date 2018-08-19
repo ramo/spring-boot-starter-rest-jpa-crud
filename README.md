@@ -19,7 +19,7 @@ mvn test
 - cd to root of the project 
 - Run the below maven command
 ```
-  mvn spring-boot:run
+mvn spring-boot:run
 ```
 
 ### Alternate way to package and run the server
@@ -32,12 +32,12 @@ mvn package
 - cd to target directory
 - Run the below command 
 ```
-  java -jar spring-boot-starter-rest-jpa-crud-0.0.1-SNAPSHOT.jar
+java -jar spring-boot-starter-rest-jpa-crud-0.0.1-SNAPSHOT.jar
 ```
 
 ### Swagger Documentation
 Swagger documentation is available in below URL.
 
 ```
-	http://localhost:8080/swagger-ui.html
+http://localhost:8080/swagger-ui.html
 ```
