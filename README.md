@@ -2,11 +2,11 @@
 
 Sample starter project for performing CRUD operations in Spring Boot with RESTful and JPA
 
-# Prerequisites
+### Prerequisites
 - Install mysql 5.7.22 server
 - DB properties need to be added in application.properties file
 
-# Run Test cases
+### Run Test cases
 
 - cd to root of the project
 - Run the below maven command
@@ -14,7 +14,7 @@ Sample starter project for performing CRUD operations in Spring Boot with RESTfu
 mvn test
 ```
 
-# Start the application server
+### Start the application server
 
 - cd to root of the project 
 - Run the below maven command
@@ -22,7 +22,7 @@ mvn test
   mvn spring-boot:run
 ```
 
-# Alternate way to package and run the server
+### Alternate way to package and run the server
 
 - cd to root of the project
 - Run the below maven command
@@ -35,7 +35,7 @@ mvn package
   java -jar spring-boot-starter-rest-jpa-crud-0.0.1-SNAPSHOT.jar
 ```
 
-# Swagger Documentation
+### Swagger Documentation
 Swagger documentation is available in below URL.
 
 ```
