@@ -36,7 +36,7 @@ java -jar spring-boot-starter-rest-jpa-crud-0.0.1-SNAPSHOT.jar
 ```
 
 ### Swagger Documentation
-Swagger documentation is available in below URL.
+Swagger documentation is available in the below URL.
 
 ```
 http://localhost:8080/swagger-ui.html
