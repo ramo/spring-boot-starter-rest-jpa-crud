@@ -1,6 +1,7 @@
 # spring-boot-starter-rest-jpa-crud
 
 Sample starter project for performing CRUD operations in Spring Boot with RESTful and JPA
+Test commit
 
 ### Prerequisites
 - Install mysql 5.7.22 server
